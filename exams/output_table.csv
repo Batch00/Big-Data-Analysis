@@ -1,0 +1,5 @@
+,Color,Month,Age,Tenure,is_ten
+0,BLUE,december,10,True,1
+1,RED,january,12,True,0
+2,YELLOW,february,10,True,1
+3,GREEN,march,12,False,0
